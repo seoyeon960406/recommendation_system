@@ -14,4 +14,4 @@ NSMC에 대해 띄어쓰기 교정 및 형태소 분석을 완료한 데이터�
 - numpy
 
 ### model
-![model overview](./image/model overview.png)
+![model](./image/model.png)
